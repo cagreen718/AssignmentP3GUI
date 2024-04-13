@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\CateringOrdP3\bin\Debug\net8.0-windows\CateringOrdP3.exe
+C:\Users\user\source\repos\CateringOrdP3\bin\Debug\net8.0-windows\CateringOrdP3.deps.json
+C:\Users\user\source\repos\CateringOrdP3\bin\Debug\net8.0-windows\CateringOrdP3.runtimeconfig.json
+C:\Users\user\source\repos\CateringOrdP3\bin\Debug\net8.0-windows\CateringOrdP3.dll
+C:\Users\user\source\repos\CateringOrdP3\bin\Debug\net8.0-windows\CateringOrdP3.pdb
+C:\Users\user\source\repos\CateringOrdP3\obj\Debug\net8.0-windows\CateringOrdP3.Form1.resources
+C:\Users\user\source\repos\CateringOrdP3\obj\Debug\net8.0-windows\CateringOrdP3.Properties.Resources.resources
+C:\Users\user\source\repos\CateringOrdP3\obj\Debug\net8.0-windows\CateringOrdP3.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CateringOrdP3\obj\Debug\net8.0-windows\CateringOrdP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CateringOrdP3\obj\Debug\net8.0-windows\CateringOrdP3.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CateringOrdP3\obj\Debug\net8.0-windows\CateringOrdP3.AssemblyInfo.cs
+C:\Users\user\source\repos\CateringOrdP3\obj\Debug\net8.0-windows\CateringOrdP3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CateringOrdP3\obj\Debug\net8.0-windows\CateringOrdP3.dll
+C:\Users\user\source\repos\CateringOrdP3\obj\Debug\net8.0-windows\refint\CateringOrdP3.dll
+C:\Users\user\source\repos\CateringOrdP3\obj\Debug\net8.0-windows\CateringOrdP3.pdb
+C:\Users\user\source\repos\CateringOrdP3\obj\Debug\net8.0-windows\CateringOrdP3.genruntimeconfig.cache
+C:\Users\user\source\repos\CateringOrdP3\obj\Debug\net8.0-windows\ref\CateringOrdP3.dll

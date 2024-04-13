@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CateringOrdP3", "CateringOrdP3.csproj", "{E5CB952F-5E52-4475-B7E1-2EC0E6B68BB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5CB952F-5E52-4475-B7E1-2EC0E6B68BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CB952F-5E52-4475-B7E1-2EC0E6B68BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CB952F-5E52-4475-B7E1-2EC0E6B68BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CB952F-5E52-4475-B7E1-2EC0E6B68BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B8DD344-7FA7-40C8-B765-5119FFD84BE1}
+	EndGlobalSection
+EndGlobal
